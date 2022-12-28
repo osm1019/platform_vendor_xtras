@@ -225,3 +225,9 @@ PRODUCT_COPY_FILES += \
     $(call find-copy-subdir-files,*,vendor/xtras/prebuilt/product/fonts,$(TARGET_COPY_OUT_PRODUCT)/fonts) \
     $(call find-copy-subdir-files,*,vendor/xtras/prebuilt/product/fonts,$(TARGET_COPY_OUT_SYSTEM)/fonts)
 
+# Themes
+PRODUCT_PACKAGES += \
+    AndroidBlackThemeOverlay \
+    AndroidVividThemeOverlay \
+    AndroidSnowPaintDropThemeOverlay \
+    AndroidEspressoThemeOverlay
