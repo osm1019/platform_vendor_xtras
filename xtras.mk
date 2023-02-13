@@ -82,6 +82,7 @@ PRODUCT_PACKAGES += \
     FontEvolveSansOverlay \
     FontFifa2018Overlay \
     FontFluidSansOverlay \
+    FontFucekSourceOverlay \
     FontGoogleSansOverlay \
     FontHarmonySansOverlay \
     FontJTLeonorOverlay \
