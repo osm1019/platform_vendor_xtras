@@ -154,6 +154,10 @@ PRODUCT_PACKAGES += \
 	StrokeSignalOverlay \
 	WavySignalOverlay \
 	XperiaSignalOverlay \
+        NothingDotSignalOverlay \
+	NothingDotWiFiOverlay \
+        GradiconSignalOverlay \
+	GradiconWiFiOverlay \
 	ZigZagSignalOverlay
 	
 # QS Themes
