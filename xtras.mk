@@ -231,3 +231,8 @@ PRODUCT_PACKAGES += \
     AndroidVividThemeOverlay \
     AndroidSnowPaintDropThemeOverlay \
     AndroidEspressoThemeOverlay
+
+# Brightness slider styles
+PRODUCT_PACKAGES += \
+    BrightnessSliderFilledOverlay \
+    BrightnessSliderThinOverlay
