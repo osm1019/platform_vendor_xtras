@@ -118,7 +118,11 @@ PRODUCT_PACKAGES += \
     IconShapeSquircleOverlay \
     IconShapeTaperedRectOverlay \
     IconShapeTeardropOverlay \
-    IconShapeVesselOverlay
+    IconShapeVesselOverlay \
+    IconShapeScrollOverlay \
+    IconShapeIosOverlay \
+    IconShapeRohieMeowOverlay \
+    IconShapeLeafyOverlay
 
 # Prebuilt packages
 PRODUCT_PACKAGES += \
