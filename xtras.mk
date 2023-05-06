@@ -235,4 +235,6 @@ PRODUCT_PACKAGES += \
 # Brightness slider styles
 PRODUCT_PACKAGES += \
     BrightnessSliderFilledOverlay \
-    BrightnessSliderThinOverlay
+    BrightnessSliderThinOverlay \
+    BrightnessSliderAcunOverlay
+
