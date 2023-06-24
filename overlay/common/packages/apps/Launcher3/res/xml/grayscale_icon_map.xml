@@ -290,7 +290,6 @@
     <icon drawable="@drawable/boi" package="com.bankofireland.mobilebanking" />
     <icon drawable="@drawable/bolt" package="ee.mtakso.client" />
     <icon drawable="@drawable/book_reader" package="com.github.axet.bookreader" />
-    <icon drawable="@drawable/booking" package="com.booking" />
     <icon drawable="@drawable/bookmate" package="com.bookmate" />
     <icon drawable="@drawable/bookmate" package="ru.plus.bookmate" />
     <icon drawable="@drawable/bookmyshow" package="com.bt.bms" />
