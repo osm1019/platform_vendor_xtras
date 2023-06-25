@@ -82,6 +82,7 @@ PRODUCT_PACKAGES += \
     FontEvolveSansOverlay \
     FontFifa2018Overlay \
     FontFluidSansOverlay \
+    FontFucekSourceOverlay \
     FontGoogleSansOverlay \
     FontHarmonySansOverlay \
     FontJTLeonorOverlay \
@@ -245,5 +246,18 @@ PRODUCT_PACKAGES += \
     BrightnessSliderFilledOverlay \
     BrightnessSliderThinOverlay \
     BrightnessSliderAcunOverlay \
-    BrightnessSliderBangOverlay
-
+    BrightnessSliderBangOverlay \
+    BrightnessSliderCyberpunkOverlay \
+    BrightnessSliderGradiantOverlay \
+    BrightnessSliderNeumorphOverlay \
+    BrightnessSliderOutlineOverlay \
+    BrightnessSliderShadedOverlay \
+    BrightnessSliderThinOutlineOverlay \
+    BrightnessSliderTranslucentOverlay \
+    BrightnessSliderLeafyOutlineOverlay \
+    BrightnessSliderMinimalThumbOverlay \
+    BrightnessSliderOldSchoolThumbOverlay \
+    BrightnessSliderRoundedClipOverlay \
+    BrightnessSliderThumbSliderOverlay \
+    BrightnessSliderLineOverlay \
+    BrightnessSliderLightyOverlay 
